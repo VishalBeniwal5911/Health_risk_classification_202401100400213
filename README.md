@@ -2,13 +2,13 @@
 [README.md](https://github.com/user-attachments/files/20185037/README.md)
 # Health Risk Classification using Machine Learning
 
-## 📌 Overview
+##  Overview
 
 This project aims to classify individuals into health risk categories (Low, Medium, High) using a Random Forest classifier. The model is trained on lifestyle and health data such as BMI, exercise frequency, alcohol consumption, and diet habits.
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 - Preprocess health-related data.
 - Train a Random Forest classifier.
@@ -23,7 +23,7 @@ The dataset is uploaded by the user in CSV format (e.g., `health_risk.csv`). The
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - Python
 - Pandas
